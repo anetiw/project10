@@ -1,0 +1,14 @@
+.traingle1{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 148px 0 0 398px;
+    border-color: transparent transparent transparent black;
+}
+.traingle2{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 148px 398px;
+    border-color: transparent transparent black transparent;
+}
